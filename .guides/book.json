@@ -1,0 +1,17 @@
+{
+ "name": "Week 2 Project",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "57959468-d58c-20b7-f9c7-47870148ecff",
+   "pageId": "57959468-d58c-20b7-f9c7-47870148ecff",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "4c2a9e56-5599-c6ed-328f-c14a63ce4668",
+   "pageId": "4c2a9e56-5599-c6ed-328f-c14a63ce4668",
+   "type": "page"
+  }
+ ]
+}
